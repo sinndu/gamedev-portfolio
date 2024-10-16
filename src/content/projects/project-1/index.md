@@ -1,16 +1,16 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "BEFRIEND! with Sindu, Alex, Sean, and Thomas!"
+summary: "A comedy dating simulator web game"
+date: "May 01 2022"
 draft: false
 tags:
-- Astro
+- '⭐FAVORITE'
+- Web Game
+- Hackathon
 - Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- HTML & CSS
+demoUrl: https://robots-led-by-sean.itch.io/befriend
+icon: "befriend_icon.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+BEFRIEND! is a comedy dating simulator created by me and my friends during the 24-Hour YRHACKS hackathon, featuring us as the dates. With over 70 projects and 350 participating developers, BEFRIEND! came in third place overall. I worked on the project as the lead developer, creating the entire games codebase from the ground up. BEFRIEND! contains 5 unique dates, quality not assured.

@@ -1,5 +1,6 @@
 ---
 import { type CollectionEntry, getCollection } from "astro:content"
+import ArticleImage from "../components/ArticleImage"
 
 type Props = {
   entry: CollectionEntry<"blog"> | CollectionEntry<"projects">
@@ -22,6 +23,11 @@ const next = items[(index + 1) % items.length]
 <div>
   <article>
     <Content/>
+    <ArticleImage imageURL={entry.data.image1}></ArticleImage>
+    <ArticleImage imageURL={entry.data.image2}></ArticleImage>
+    <ArticleImage imageURL={entry.data.image3}></ArticleImage>
+    <ArticleImage imageURL={entry.data.image4}></ArticleImage>
+    <ArticleImage imageURL={entry.data.image5}></ArticleImage>
   </article>
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
     <a href={`/${prev.collection}/${prev.slug}`} class="group p-4 gap-3 flex items-center border rounded-lg hover:bg-black/5 hover:dark:bg-white/10 border-black/15 dark:border-white/20 blend">
