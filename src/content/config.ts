@@ -24,6 +24,8 @@ const blog = defineCollection({
     image3: z.string().optional(),
     image4: z.string().optional(),
     image5: z.string().optional(),
+    image6: z.string().optional(),
+    image7: z.string().optional(),
   }),
 })
 
@@ -43,6 +45,8 @@ const projects = defineCollection({
     image3: z.string().optional(),
     image4: z.string().optional(),
     image5: z.string().optional(),
+    image6: z.string().optional(),
+    image7: z.string().optional(),
   }),
 })
 

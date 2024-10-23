@@ -9,6 +9,12 @@ tags:
 - APIs
 - Databases
 - HTML & CSS
+icon: "lastfm_icon.png"
+repoUrl: https://github.com/sinndu/lasfm_higherorlower
+image1: lastfm/lastfm1.png
+image2: lastfm/lastfm2.PNG
+image3: lastfm/lastfm3.PNG
+image4: lastfm/lastfm4.PNG
 ---
 
-Last.fm Higher or Lower is a web game which utilizes Last.FM's music and user database API to create a custom tailored game for the user. Fetching your song scrobble data, the game allows users to guess if they have listened to a song more or less than another fetched song. Solo developed in HTML, CSS, and Javascript.
+Last.FM Higher or Lower is a web game I developed solo, using Last.FM's music library and user database API to create a personalized experience. The game fetches your personal listening data and challenges you to guess whether you’ve listened to one song more or less than another. I built the project using HTML, CSS, and JavaScript, focusing on integrating APIs and providing an interactive and engaging user experience.
