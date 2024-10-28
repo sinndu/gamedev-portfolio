@@ -19,4 +19,5 @@ image6: blockgame/blockgame5.PNG
 image7: blockgame/blockgame6.PNG
 ---
 
-Starting off as just a single block, I solo developed a 3D block engine capable of handling thousands of chunks and millions of blocks. The engine is built with a variety of features, including chunking, many types of culling, terrain generation, a lighting system, inventory system, and dungeon generator. The engine was created in C# through the Monogame framework.
+
+Procedural 3D Block World began simply with the rendering of a single block, then evolved into an expansive engine capable of generating entire worlds. Developed over a month in MonoGame with C#, the engine now handles hundreds of thousands of chunks and millions of blocks while maintaining a stable framerate. Inspired by games like Minecraft, I implemented optimizations such as vertex chunking and face culling, allowing efficient world-building. Key features include a flood-fill lighting engine, Perlin noise terrain generation, and a dungeon generator, paired with a sister program for custom room design. The project also includes an inventory and entity system, setting the stage for potential gameplay extensions.
