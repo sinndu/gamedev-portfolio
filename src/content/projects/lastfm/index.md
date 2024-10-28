@@ -9,7 +9,7 @@ tags:
 - APIs
 - Databases
 - HTML & CSS
-icon: "lastfm_icon.png"
+icon: "lastfm/lastfm_icon.png"
 repoUrl: https://github.com/sinndu/lasfm_higherorlower
 image1: lastfm/lastfm1.png
 image2: lastfm/lastfm2.PNG
